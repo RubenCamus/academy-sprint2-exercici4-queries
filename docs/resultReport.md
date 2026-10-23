@@ -16,20 +16,10 @@
 - ✔️ OK - Query **[ 5 ]**
 
 ---
-- ❌ MISMATCH - Query **[ 6 ]** Result does not match expected output.
-
-
-🔢 Different result lengths: 
-- **Expected:** 5
-- **Got:** 54
+- ✔️ OK - Query **[ 6 ]**
 
 ---
-- ❌ MISMATCH - Query **[ 7 ]** Result does not match expected output.
-
-
-🔢 Different result lengths: 
-- **Expected:** 5
-- **Got:** 54
+- ✔️ OK - Query **[ 7 ]**
 
 ---
 - ✔️ OK - Query **[ 8 ]**
@@ -41,28 +31,13 @@
 - ✔️ OK - Query **[ 10 ]**
 
 ---
-- ❌ MISMATCH - Query **[ 11 ]** Result does not match expected output.
-
-
-🔢 Different result lengths: 
-- **Expected:** 1
-- **Got:** 0
+- ✔️ OK - Query **[ 11 ]**
 
 ---
-- ❌ MISMATCH - Query **[ 12 ]** Result does not match expected output.
-
-
-🔢 Different result lengths: 
-- **Expected:** 1
-- **Got:** 0
+- ✔️ OK - Query **[ 12 ]**
 
 ---
-- ❌ MISMATCH - Query **[ 13 ]** Result does not match expected output.
-
-
-🔢 Different result lengths: 
-- **Expected:** 318
-- **Got:** 0
+- ✔️ OK - Query **[ 13 ]**
 
 ---
 - ✔️ OK - Query **[ 14 ]**
@@ -99,19 +74,17 @@
 - **Got:** 1
 
 ---
-- ❌ MISMATCH - Query **[ 22 ]** Result does not match expected output.
-
-
-🔢 Different result lengths: 
-- **Expected:** 1
-- **Got:** 2
+- ✔️ OK - Query **[ 22 ]**
 
 ---
-- ❌ MISMATCH - Query **[ 23 ]** Result does not match expected output.
+- ✔️ OK - Query **[ 23 ]**
+
+---
+- ❌ MISMATCH - Query **[ 24 ]** Result does not match expected output.
 
 
 🔢 Different result lengths: 
-- **Expected:** 0
+- **Expected:** 147
 - **Got:** 664
 
 ---
@@ -124,18 +97,8 @@
 - ✔️ OK - Query **[ 27 ]**
 
 ---
-- ❌ MISMATCH - Query **[ 31 ]** Result does not match expected output.
-
-
-🔢 Different result lengths: 
-- **Expected:** 10
-- **Got:** 7
+- ✔️ OK - Query **[ 31 ]**
 
 ---
-- ❌ MISMATCH - Query **[ 32 ]** Result does not match expected output.
-
-
-🧩 Mismatch at position 0:
-- **Expected:** {"grades":[{},{},{},{},{},{},{}],"name":"Gandhi","restaurant_id":40381295}
-- **Actual:** {"name":"Gandhi","restaurant_id":40381295}
+- ✔️ OK - Query **[ 32 ]**
 
